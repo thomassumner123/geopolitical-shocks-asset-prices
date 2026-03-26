@@ -1,0 +1,88 @@
+Date,Event Name,Category,Anticipation,Geography,Notes
+2000-10-12,USS Cole bombing,TER,N,Middle East,Al-Qaeda attack on US destroyer in Yemen. 17 killed
+2001-09-11,9/11 attacks,TER,N,Global,Largest terrorist attack in history. US markets closed 4 days. Overlapping window with Afghanistan invasion — flag in methodology
+2001-10-07,Afghanistan invasion,MIL,Y,Asia-Pacific,US-led NATO invasion following 9/11. Anticipated given public warnings. Overlapping window with 9/11 — flag in methodology
+2003-03-20,Iraq invasion,MIL,Y,Middle East,US-led invasion. Heavily anticipated following months of buildup. SARS outbreak same date — excluded as coincident event
+2004-03-11,Madrid train bombings,TER,N,Europe,Al-Qaeda affiliated attack. 193 killed. 3 days before Spanish election
+2005-07-07,London 7/7 bombings,TER,N,Europe,Al-Qaeda attack on London transport. 52 killed. First day of G8 summit
+2006-07-12,Israel-Lebanon war,MIL,N,Middle East,Hezbollah kidnapping triggered full Israeli military response
+2006-10-09,North Korea first nuclear test,MIL,N,Asia-Pacific,First DPRK nuclear test. Major Nikkei shock. Significant escalation of Korean peninsula risk
+2007-01-05,Iran nuclear standoff escalates,SAN,Y,Middle East,UN Security Council resolution imposing sanctions on Iran nuclear programme
+2008-01-01,Global food crisis peak,ENR,N,Global,Commodity price spike driven by drought demand and export bans. Triggered political instability across Middle East and Africa
+2008-08-08,Russia-Georgia war,MIL,N,Europe,Russia invades Georgia over South Ossetia. First Russian military action in Europe post-Cold War. Overlapping window with Lehman — flag in methodology
+2008-09-15,Lehman Brothers collapse,POL,N,Global,Borderline geopolitical — included as financial shock with major geopolitical consequences for global governance and regulation. Overlapping window with Russia-Georgia — flag in methodology
+2008-11-04,Obama election,POL,N,Global,First African American president. Significant shift in US foreign policy expectations. Overlapping window with Mumbai attacks — flag in methodology
+2008-11-26,Mumbai attacks,TER,N,Asia-Pacific,Pakistan-linked attack on Mumbai. 166 killed. Major India-Pakistan tension. Overlapping window with Obama election — flag in methodology
+2009-06-12,Iran disputed election,POL,N,Middle East,Ahmadinejad declared winner amid mass protests. Green Movement. Significant EM and oil market reaction
+2010-03-26,North Korea sinking of ROKS Cheonan,MIL,N,Asia-Pacific,North Korea sinks South Korean naval vessel. Major Korean peninsula escalation. Overlapping window with Greece bailout — flag in methodology
+2010-05-02,Greece bailout / Eurozone crisis begins,SAN,Y,Europe,First Greek bailout triggers broader Eurozone sovereign debt crisis. ECB and IMF intervention. Overlapping window with Cheonan — flag in methodology
+2011-02-11,Arab Spring — Egypt,POL,N,Middle East,Mubarak resigns. Primary Arab Spring event — Tunisia entry removed as captured by Egypt reaction. Overlapping window with Fukushima and Libya — flag in methodology
+2011-03-11,Fukushima disaster,ENR,N,Asia-Pacific,Nuclear disaster following tsunami. Major energy policy shock globally. Direct Nikkei impact. Overlapping window with Arab Spring Egypt and Libya — flag in methodology
+2011-03-19,Libya intervention,MIL,Y,Middle East,NATO intervention following UN resolution. Anticipated given weeks of Security Council debate. Overlapping window with Arab Spring Egypt and Fukushima — flag in methodology
+2011-10-20,Gaddafi killed / Libya regime change,MIL,N,Middle East,Sudden end of Gaddafi regime. Significant oil market reaction given Libya production
+2012-01-23,EU Iran oil embargo,SAN,Y,Middle East,EU bans Iranian oil imports over nuclear programme. Significant oil supply shock
+2012-06-17,Greek election / Eurozone peak stress,POL,Y,Europe,Second Greek election after inconclusive first round. Peak Eurozone breakup fear. Overlapping window with Draghi speech — flag in methodology
+2012-07-26,Draghi whatever it takes speech,DIP,N,Europe,ECB president pledges to do whatever it takes to preserve Euro. De-escalation event — important for asymmetry analysis. Overlapping window with Greek election — flag in methodology
+2013-07-03,Egypt military coup,POL,N,Middle East,Military removes Morsi. Significant regional stability implications and Suez Canal risk
+2013-08-21,Syria chemical weapons attack,MIL,N,Middle East,Ghouta attack. US threatened military response. Major escalation risk. Oil spike
+2014-03-18,Crimea annexation,MIL,N,Europe,Russia annexes Crimea following referendum. First European territorial annexation since WW2. Russia sanctions post-Crimea removed — inseparable market reaction within 2 days
+2014-06-29,ISIS declares caliphate,MIL,N,Middle East,Islamic State declares caliphate across Iraq and Syria. Major regional destabilisation. Overlapping window with MH17 — flag in methodology
+2014-07-17,MH17 shot down,MIL,N,Europe,Malaysian Airlines flight shot down over Ukraine. Major escalation in Russia-West tensions. Russia sanctions escalation removed — too close to MH17. Overlapping window with ISIS — flag in methodology
+2014-10-01,Hong Kong umbrella protests,POL,N,Asia-Pacific,Pro-democracy protests. Early signal of China-Hong Kong tensions. HKD and EM reaction
+2015-01-07,Charlie Hebdo attack,TER,N,Europe,Islamic State affiliated attack on Paris magazine. 17 killed. European security shock
+2015-03-26,Saudi intervention Yemen,MIL,N,Middle East,Saudi-led coalition begins airstrikes in Yemen. Major Gulf regional conflict
+2015-07-14,Iran nuclear deal JCPOA signed,DIP,Y,Middle East,Landmark nuclear agreement. Oil market reaction on Iranian supply expectations
+2015-09-30,Russia airstrikes Syria,MIL,N,Middle East,Russia begins military intervention in Syria. Significant escalation of conflict
+2015-11-13,Paris attacks,TER,N,Europe,Islamic State coordinated attacks. 130 killed. Largest attack on French soil since WW2
+2016-06-23,Brexit referendum,POL,N,Europe,UK votes to leave EU. Largest single day GBP move in history. Major political shock. Overlapping window with Turkey coup — flag in methodology
+2016-07-15,Turkey coup attempt,POL,N,Europe,Failed military coup against Erdogan. Major EM Turkey shock. USDTRY spike. Overlapping window with Brexit — flag in methodology
+2016-10-09,North Korea fifth nuclear test,MIL,N,Asia-Pacific,Fifth and largest DPRK nuclear test. Significant escalation. Overlapping window with Trump election — flag in methodology
+2016-11-08,Trump election,POL,N,Global,Unexpected Trump victory. Immediate market shock followed by rapid reversal and rally. Overlapping window with North Korea test and Italian referendum — flag in methodology
+2016-12-04,Italian referendum,POL,N,Europe,Renzi loses referendum and resigns. Part of broader 2016 populist wave. Euro and Italian bonds react sharply. Overlapping window with Trump election — flag in methodology
+2017-04-06,US strikes Syria,MIL,N,Middle East,US Tomahawk missile strikes on Syrian airbase. First direct US military action against Assad. Overlapping window with Qatar blockade — flag in methodology
+2017-05-17,Qatar blockade,DIP,N,Middle East,Saudi Arabia UAE Egypt Bahrain sever relations with Qatar. LNG market shock. Overlapping window with US strikes Syria — flag in methodology
+2017-08-05,North Korea ICBM test,MIL,N,Asia-Pacific,North Korea tests intercontinental ballistic missile. Direct threat to US mainland. Nikkei reaction
+2017-10-01,Catalan independence referendum,POL,N,Europe,Significant European political shock. Spanish assets and Euro moved sharply
+2018-05-08,Iran JCPOA withdrawal,SAN,N,Middle East,Trump withdraws from Iran nuclear deal. Immediate oil price spike. Snapback sanctions. Overlapping window with US-China tariffs — flag in methodology
+2018-06-15,US China trade war tariffs begin,SAN,Y,Global,First round of US tariffs on Chinese goods. Beginning of sustained trade war. Overlapping window with JCPOA withdrawal — flag in methodology
+2018-10-02,Khashoggi murder,DIP,N,Middle East,Saudi journalist murdered in Istanbul consulate. Major Saudi diplomatic crisis. Oil market reaction. INF Treaty withdrawal removed — too close and lower market impact
+2019-05-10,US-China trade war escalation and Huawei entity list,SAN,Y,Global,US raises tariffs to 25% on 200bn of Chinese goods and adds Huawei to export control blacklist. Merged — 6 days apart inseparable market reaction. Major tech and trade war escalation
+2019-06-09,Hong Kong protests escalation,POL,N,Asia-Pacific,Large scale protests against extradition bill. Significant HKD and EM China reaction. Overlapping window with trade war cluster — flag in methodology
+2019-08-05,China devalues yuan,SAN,N,Global,PBOC allows yuan to weaken past 7 per dollar. Markets interpret as retaliation to tariffs. Overlapping window with Saudi Aramco — flag in methodology
+2019-09-14,Saudi Aramco drone attack,ENR,N,Middle East,Houthi drone attack on Saudi oil facilities. Largest single oil supply disruption in history. Overlapping window with China yuan devaluation and Balakot — flag in methodology
+2019-09-30,India Pakistan Balakot airstrike,MIL,N,Asia-Pacific,India conducts airstrikes in Pakistan following Pulwama attack. Nuclear power confrontation. Overlapping window with Saudi Aramco — flag in methodology
+2020-01-03,Soleimani assassination,MIL,N,Middle East,US drone strike kills Iranian general. Major escalation risk. Oil spike. Overlapping window with COVID WHO emergency — flag in methodology
+2020-03-11,COVID pandemic declared,POL,N,Global,WHO declares pandemic. Largest single week market selloff since 1987. WHO emergency entry removed — captured by pandemic declaration. Overlapping window with oil collapse — flag in methodology
+2020-04-20,Oil price collapse and OPEC+ emergency cut,ENR,Y,Global,WTI front month futures briefly go negative. Simultaneous OPEC+ largest ever production cut. Merged — same date inseparable market event. Overlapping window with COVID pandemic — flag in methodology
+2020-06-15,India China Galwan Valley clash,MIL,N,Asia-Pacific,First deadly India-China border clash in decades. Significant for EM and Asia-Pacific coverage. Overlapping window with Hong Kong security law — flag in methodology
+2020-06-30,China imposes Hong Kong security law,SAN,N,Asia-Pacific,Beijing imposes national security law on Hong Kong. Major China-West diplomatic rupture. Overlapping window with Galwan clash — flag in methodology
+2020-09-27,Nagorno-Karabakh war,MIL,N,Europe,Azerbaijan launches offensive against Armenian forces. Turkish and Russian involvement
+2021-01-06,US Capitol storming,POL,N,Global,Trump supporters storm Capitol. Constitutional crisis. Significant global confidence shock
+2021-03-23,Ever Given Suez Canal blockage,ENR,N,Global,Container ship blocks Suez Canal for 6 days. Significant global shipping and commodity shock. Useful comparator to Hormuz closure
+2021-05-07,Colonial Pipeline ransomware attack,ENR,N,Americas,Largest US fuel pipeline shut by cyberattack. Significant energy security and infrastructure shock. Overlapping window with Belarus Ryanair — flag in methodology
+2021-05-23,Belarus Ryanair incident,DIP,N,Europe,Belarus forces passenger plane to land to arrest dissident. EU airspace closure and sanctions. Overlapping window with Colonial Pipeline — flag in methodology
+2021-08-15,Afghanistan Taliban takeover,MIL,N,Asia-Pacific,Taliban captures Kabul. Rapid collapse of US-backed government. Significant geopolitical credibility shock. Overlapping window with AUKUS — flag in methodology
+2021-09-15,AUKUS announcement,DIP,N,Asia-Pacific,US UK Australia security pact. France recalls ambassador. Major diplomatic rupture. Overlapping window with Afghanistan — flag in methodology
+2022-02-24,Russia invades Ukraine,MIL,Y,Europe,Largest land war in Europe since WW2. Global energy and commodity shock. Nuclear dimension. Russia sanctions and oil embargo entries merged into separate cluster entry
+2022-02-26,Russia sanctions and oil embargo cluster,SAN,Y,Europe,Unprecedented Western sanctions including SWIFT exclusion and subsequent oil embargo. Merged — inseparable market reactions within 10 days. Largest sanctions package in history
+2022-06-15,Fed raises rates 75bps,POL,N,Global,Largest Fed rate rise since 1994. Triggered by inflation partly driven by Ukraine energy shock
+2022-09-22,UK Truss mini-budget,POL,N,Europe,Unfunded tax cuts trigger gilts crisis and emergency BoE intervention. Significant rates and GBP shock. Overlapping window with Nord Stream and semiconductor controls — flag in methodology
+2022-09-26,Nord Stream sabotage,MIL,N,Europe,Nord Stream pipelines destroyed. Suspected state actor. Major European energy security shock. Italian election removed — 1 day gap inseparable. Overlapping window with Truss and semiconductor controls — flag in methodology
+2022-10-07,China semiconductor export controls,SAN,N,Global,US imposes sweeping controls on semiconductor exports to China. Major tech and supply chain shock. Overlapping window with Truss and Nord Stream — flag in methodology
+2022-10-29,Lula wins Brazil election,POL,N,Americas,Bolsonaro defeated. Significant shift in Brazilian foreign and economic policy. USDBRL reaction. Overlapping window with September 2022 cluster — flag in methodology
+2023-01-08,Brazil Capitol storming,POL,N,Americas,Bolsonaro supporters storm Brazilian Congress. Constitutional crisis echoing January 6th
+2023-04-02,OPEC+ surprise production cut,ENR,N,Global,Unexpected 1 million barrel per day cut. Significant oil price spike
+2023-06-23,Wagner Group mutiny,POL,N,Europe,Prigozhin marches on Moscow. Largest internal threat to Putin regime. Markets reacted sharply on Russia risk. Overlapping window with Niger coup — flag in methodology
+2023-07-26,Niger coup,POL,N,Africa,Military coup ousts elected president. France expelled. Sahel security crisis. Overlapping window with Wagner mutiny — flag in methodology
+2023-10-07,Hamas attack / Gaza war begins,MIL,N,Middle East,Largest attack on Israel since 1973. 1200 killed. Regional escalation risk
+2024-01-12,Houthi Red Sea shipping attacks escalate,ENR,N,Middle East,US and UK strike Houthi targets. Major global shipping disruption. Suez Canal rerouting
+2024-04-13,Iran direct attack on Israel,MIL,N,Middle East,First ever direct Iranian attack on Israeli territory. 300 drones and missiles. Major escalation
+2024-06-06,French snap election called,POL,N,Europe,Macron calls surprise election after EU vote. Far right surge. Euro and French bond reaction. Overlapping window with Trump assassination attempt — flag in methodology
+2024-07-13,Trump assassination attempt,POL,N,Global,First assassination attempt on major US political figure since Reagan. Election implications. Overlapping window with French election — flag in methodology
+2024-11-05,Trump re-election,POL,N,Global,Trump wins second term. Immediate market reaction — dollar strength tariff fears EM selloff. Overlapping window with South Korea martial law — flag in methodology
+2024-12-03,South Korea martial law,POL,N,Asia-Pacific,President Yoon declares martial law. Reversed within hours. Major KRW and equity shock. Overlapping window with Trump re-election — flag in methodology
+2025-01-20,Trump tariff executive orders,SAN,Y,Global,Trump signs sweeping tariff orders on day one. Canada Mexico China targeted immediately
+2025-04-02,Liberation Day tariffs,SAN,N,Global,Trump announces global reciprocal tariffs. Largest single day market shock since COVID. Overlapping window with tariff pause — intentional escalation/de-escalation pair for asymmetry analysis
+2025-04-09,Tariff pause announced,DIP,N,Global,90 day tariff pause announced for most countries. Largest single day market rally since 2008. Intentional de-escalation pair with Liberation Day — key asymmetry analysis event
+2026-01-03,US raid captures Maduro,MIL,N,Americas,US forces capture Venezuelan president Maduro. Unprecedented action against sitting head of state. Significant EM and oil market reaction
+2026-02-28,Iran war cluster,MIL,N,Middle East,US and Israel strike Iranian nuclear and military infrastructure. Khamenei killed. Iran closes Strait of Hormuz simultaneously. Iranian retaliation strikes follow March 1st. Merged — inseparable market reactions within 1 day window. Largest Middle East military escalation since 2003. Ongoing as of dataset end date
