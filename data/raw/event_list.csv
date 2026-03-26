@@ -1,0 +1,105 @@
+Date,Event Name,Category,Anticipation,Geography,Notes
+2000-10-12,USS Cole bombing,TER,N,Middle East,Al-Qaeda attack on US destroyer in Yemen. 17 killed
+2001-03-01,US withdraws from Kyoto Protocol,DIP,N,Global,Early signal of US unilateralism on climate. Limited market impact but important diplomatic context
+2001-09-11,9/11 attacks,TER,N,Global,Largest terrorist attack in history. US markets closed 4 days
+2001-10-07,Afghanistan invasion,MIL,Y,Asia-Pacific,US-led NATO invasion following 9/11. Anticipated given public warnings
+2002-10-12,Bali bombing,TER,N,Asia-Pacific,Al-Qaeda affiliated attack. 202 killed. Major shock to Asian markets
+2002-12-02,Venezuela oil strike,ENR,N,Americas,General strike shut Venezuelan oil production. Major oil supply shock
+2003-03-20,Iraq invasion,MIL,Y,Middle East,US-led invasion. Heavily anticipated following months of buildup
+2003-03-20,SARS outbreak declared,POL,N,Global,WHO global health emergency. Significant Asia-Pacific market impact
+2004-03-11,Madrid train bombings,TER,N,Europe,Al-Qaeda affiliated attack. 193 killed. 3 days before Spanish election
+2005-07-07,London 7/7 bombings,TER,N,Europe,Al-Qaeda attack on London transport. 52 killed. First day of G8 summit
+2006-07-12,Israel-Lebanon war,MIL,N,Middle East,Hezbollah kidnapping triggered full Israeli military response
+2006-10-09,North Korea first nuclear test,MIL,N,Asia-Pacific,First DPRK nuclear test. Major Nikkei shock. Significant escalation of Korean peninsula risk
+2007-01-05,Iran nuclear standoff escalates,SAN,Y,Middle East,UN Security Council resolution imposing sanctions on Iran nuclear programme
+2008-01-01,Global food crisis peak,ENR,N,Global,Commodity price spike driven by drought demand and export bans. Triggered political instability across Middle East and Africa
+2008-08-08,Russia-Georgia war,MIL,N,Europe,Russia invades Georgia over South Ossetia. First Russian military action in Europe post-Cold War
+2008-09-15,Lehman Brothers collapse,POL,N,Global,Borderline geopolitical — included as financial shock with major geopolitical consequences for global governance and regulation. Document reasoning
+2008-11-04,Obama election,POL,N,Global,First African American president. Significant shift in US foreign policy expectations
+2008-11-26,Mumbai attacks,TER,N,Asia-Pacific,Pakistan-linked attack on Mumbai. 166 killed. Major India-Pakistan tension
+2009-06-12,Iran disputed election,POL,N,Middle East,Ahmadinejad declared winner amid mass protests. Green Movement. Significant EM and oil market reaction
+2010-03-26,North Korea sinking of ROKS Cheonan,MIL,N,Asia-Pacific,North Korea sinks South Korean naval vessel. Major Korean peninsula escalation. Nikkei and KRW reaction
+2010-05-02,Greece bailout / Eurozone crisis begins,SAN,Y,Europe,First Greek bailout triggers broader Eurozone sovereign debt crisis. ECB and IMF intervention
+2011-01-14,Arab Spring — Tunisia,POL,N,Middle East,Ben Ali flees. First domino of Arab Spring. Surprise shock triggering regional contagion
+2011-02-11,Arab Spring — Egypt,POL,N,Middle East,Mubarak resigns. Largest Arab Spring event. Significant oil and EM market reaction
+2011-03-11,Fukushima disaster,ENR,N,Asia-Pacific,Nuclear disaster following tsunami. Major energy policy shock globally. Direct Nikkei impact
+2011-03-19,Libya intervention,MIL,Y,Middle East,NATO intervention following UN resolution. Anticipated given weeks of Security Council debate
+2011-10-20,Gaddafi killed / Libya regime change,MIL,N,Middle East,Sudden end of Gaddafi regime. Significant oil market reaction given Libya production
+2012-01-23,EU Iran oil embargo,SAN,Y,Middle East,EU bans Iranian oil imports over nuclear programme. Significant oil supply shock
+2012-06-17,Greek election / Eurozone peak stress,POL,Y,Europe,Second Greek election after inconclusive first round. Peak Eurozone breakup fear. Major market event
+2012-07-26,Draghi whatever it takes speech,DIP,N,Europe,ECB president pledges to do whatever it takes to preserve Euro. Single most important policy speech of Eurozone crisis
+2013-07-03,Egypt military coup,POL,N,Middle East,Military removes Morsi. Significant regional stability implications and Suez Canal risk
+2013-08-21,Syria chemical weapons attack,MIL,N,Middle East,Ghouta attack. US threatened military response. Major escalation risk. Oil spike
+2014-03-18,Crimea annexation,MIL,N,Europe,Russia annexes Crimea following referendum. First European territorial annexation since WW2
+2014-03-20,Russia sanctions post-Crimea,SAN,Y,Europe,US and EU impose sanctions on Russia following Crimea annexation
+2014-06-29,ISIS declares caliphate,MIL,N,Middle East,Islamic State declares caliphate across Iraq and Syria. Major regional destabilisation
+2014-07-17,MH17 shot down,MIL,N,Europe,Malaysian Airlines flight shot down over Ukraine. Major escalation in Russia-West tensions
+2014-07-30,Russia sanctions escalation post-MH17,SAN,Y,Europe,US and EU significantly tighten Russia sanctions following MH17. Distinct from post-Crimea sanctions package
+2014-10-01,Hong Kong umbrella protests,POL,N,Asia-Pacific,Pro-democracy protests. Early signal of China-Hong Kong tensions. HKD and EM reaction
+2015-01-07,Charlie Hebdo attack,TER,N,Europe,Islamic State affiliated attack on Paris magazine. 17 killed. European security shock
+2015-03-26,Saudi intervention Yemen,MIL,N,Middle East,Saudi-led coalition begins airstrikes in Yemen. Major Gulf regional conflict
+2015-07-14,Iran nuclear deal JCPOA signed,DIP,Y,Middle East,Landmark nuclear agreement. Oil market reaction on Iranian supply expectations
+2015-09-30,Russia airstrikes Syria,MIL,N,Middle East,Russia begins military intervention in Syria. Significant escalation of conflict
+2015-11-13,Paris attacks,TER,N,Europe,Islamic State coordinated attacks. 130 killed. Largest attack on French soil since WW2
+2016-06-23,Brexit referendum,POL,N,Europe,UK votes to leave EU. Largest single day GBP move in history. Major political shock
+2016-07-15,Turkey coup attempt,POL,N,Europe,Failed military coup against Erdogan. Major EM Turkey shock. USDTRY spike
+2016-10-09,North Korea fifth nuclear test,MIL,N,Asia-Pacific,Fifth and largest DPRK nuclear test. Significant escalation. Nikkei and KRW reaction
+2016-11-08,Trump election,POL,N,Global,Unexpected Trump victory. Immediate market shock followed by rapid reversal and rally
+2016-12-04,Italian referendum,POL,N,Europe,Renzi loses referendum and resigns. Part of broader 2016 populist wave. Euro and Italian bonds react sharply
+2017-01-20,Trump inauguration / travel ban,POL,N,Global,Executive order on immigration. Signals protectionist shift in US foreign policy
+2017-04-06,US strikes Syria,MIL,N,Middle East,US Tomahawk missile strikes on Syrian airbase. First direct US military action against Assad
+2017-05-17,Qatar blockade,DIP,N,Middle East,Saudi Arabia UAE Egypt Bahrain sever relations with Qatar. LNG market shock
+2017-06-01,US withdraws from Paris Agreement,DIP,N,Global,Trump announces withdrawal from Paris climate accord. Significant diplomatic rupture with allies
+2017-08-05,North Korea ICBM test,MIL,N,Asia-Pacific,North Korea tests intercontinental ballistic missile. Direct threat to US mainland. Nikkei reaction
+2017-10-01,Catalan independence referendum,POL,N,Europe,Significant European political shock. Spanish assets and Euro moved sharply
+2018-05-08,Iran JCPOA withdrawal,SAN,N,Middle East,Trump withdraws from Iran nuclear deal. Immediate oil price spike. Snapback sanctions
+2018-06-15,US China trade war tariffs begin,SAN,Y,Global,First round of US tariffs on Chinese goods. Beginning of sustained trade war
+2018-10-02,Khashoggi murder,DIP,N,Middle East,Saudi journalist murdered in Istanbul consulate. Major Saudi diplomatic crisis. Oil market reaction
+2018-10-18,US withdraws from INF Treaty,DIP,N,Global,Major arms control rupture between US and Russia. Significant escalation of great power tensions
+2019-05-10,US China trade war escalation,SAN,Y,Global,US raises tariffs to 25% on 200bn of Chinese goods. Major escalation
+2019-05-16,Huawei entity list,SAN,N,Global,US adds Huawei to export control blacklist. Significant tech war escalation. Direct precursor to 2022 semiconductor controls
+2019-06-09,Hong Kong protests escalation,POL,N,Asia-Pacific,Large scale protests against extradition bill. Significant HKD and EM China reaction. Distinct from 2020 security law
+2019-08-05,China devalues yuan,SAN,N,Global,PBOC allows yuan to weaken past 7 per dollar. Markets interpret as retaliation to tariffs
+2019-09-14,Saudi Aramco drone attack,ENR,N,Middle East,Houthi drone attack on Saudi oil facilities. Largest single oil supply disruption in history
+2019-09-30,India Pakistan Balakot airstrike,MIL,N,Asia-Pacific,India conducts airstrikes in Pakistan following Pulwama attack. Nuclear power confrontation
+2020-01-03,Soleimani assassination,MIL,N,Middle East,US drone strike kills Iranian general. Major escalation risk. Oil spike
+2020-01-30,COVID WHO emergency declared,POL,N,Global,WHO declares public health emergency. First formal global COVID warning
+2020-03-11,COVID pandemic declared,POL,N,Global,WHO declares pandemic. Largest single week market selloff since 1987
+2020-04-20,Oil price goes negative,ENR,N,Global,WTI front month futures briefly go negative. Unprecedented demand collapse
+2020-04-20,OPEC+ historic production cut,ENR,Y,Global,Largest ever OPEC+ production cut agreement following demand collapse
+2020-06-15,India China Galwan Valley clash,MIL,N,Asia-Pacific,First deadly India-China border clash in decades. Significant for EM and Asia-Pacific coverage
+2020-06-30,China imposes Hong Kong security law,SAN,N,Asia-Pacific,Beijing imposes national security law on Hong Kong. Major China-West diplomatic rupture
+2020-09-27,Nagorno-Karabakh war,MIL,N,Europe,Azerbaijan launches offensive against Armenian forces. Turkish and Russian involvement
+2021-01-06,US Capitol storming,POL,N,Global,Trump supporters storm Capitol. Constitutional crisis. Significant global confidence shock
+2021-03-23,Ever Given Suez Canal blockage,ENR,N,Global,Container ship blocks Suez Canal for 6 days. Significant global shipping and commodity shock. Useful comparator to Hormuz closure
+2021-05-07,Colonial Pipeline ransomware attack,ENR,N,Americas,Largest US fuel pipeline shut by cyberattack. Significant energy security and infrastructure shock
+2021-05-23,Belarus Ryanair incident,DIP,N,Europe,Belarus forces passenger plane to land to arrest dissident. EU airspace closure and sanctions
+2021-08-15,Afghanistan Taliban takeover,MIL,N,Asia-Pacific,Taliban captures Kabul. Rapid collapse of US-backed government. Significant geopolitical credibility shock
+2021-09-15,AUKUS announcement,DIP,N,Asia-Pacific,US UK Australia security pact. France recalls ambassador. Major diplomatic rupture
+2022-02-24,Russia invades Ukraine,MIL,Y,Europe,Largest land war in Europe since WW2. Global energy and commodity shock. Nuclear dimension
+2022-02-26,Russia sanctions package,SAN,Y,Europe,Unprecedented Western sanctions including SWIFT exclusion. Largest sanctions package in history
+2022-03-08,Russian oil embargo,ENR,Y,Global,US and UK ban Russian oil imports. Europe begins phased reduction. Major energy market shock
+2022-06-15,Fed raises rates 75bps,POL,N,Global,Largest Fed rate rise since 1994. Triggered by inflation partly driven by Ukraine energy shock
+2022-09-22,UK Truss mini-budget,POL,N,Europe,Unfunded tax cuts trigger gilts crisis and emergency BoE intervention. Significant rates and GBP shock
+2022-09-26,Nord Stream sabotage,MIL,N,Europe,Nord Stream pipelines destroyed. Suspected state actor. Major European energy security shock
+2022-09-25,Italian election — Meloni wins,POL,N,Europe,Far right takes power in third largest Eurozone economy. Euro and Italian spread reaction
+2022-10-07,China semiconductor export controls,SAN,N,Global,US imposes sweeping controls on semiconductor exports to China. Major tech and supply chain shock
+2022-10-29,Lula wins Brazil election,POL,N,Americas,Bolsonaro defeated. Significant shift in Brazilian foreign and economic policy. USDBRL reaction
+2023-01-08,Brazil Capitol storming,POL,N,Americas,Bolsonaro supporters storm Brazilian Congress. Constitutional crisis echoing January 6th
+2023-04-02,OPEC+ surprise production cut,ENR,N,Global,Unexpected 1 million barrel per day cut. Significant oil price spike
+2023-06-23,Wagner Group mutiny,POL,N,Europe,Prigozhin marches on Moscow. Largest internal threat to Putin regime. Markets reacted sharply on Russia risk
+2023-07-26,Niger coup,POL,N,Africa,Military coup ousts elected president. France expelled. Sahel security crisis
+2023-10-07,Hamas attack / Gaza war begins,MIL,N,Middle East,Largest attack on Israel since 1973. 1200 killed. Regional escalation risk
+2024-01-12,Houthi Red Sea shipping attacks escalate,ENR,N,Middle East,US and UK strike Houthi targets. Major global shipping disruption. Suez Canal rerouting
+2024-04-13,Iran direct attack on Israel,MIL,N,Middle East,First ever direct Iranian attack on Israeli territory. 300 drones and missiles. Major escalation
+2024-06-06,French snap election called,POL,N,Europe,Macron calls surprise election after EU vote. Far right surge. Euro and French bond reaction
+2024-07-13,Trump assassination attempt,POL,N,Global,First assassination attempt on major US political figure since Reagan. Election implications
+2024-11-05,Trump re-election,POL,N,Global,Trump wins second term. Immediate market reaction — dollar strength tariff fears EM selloff
+2024-12-03,South Korea martial law,POL,N,Asia-Pacific,President Yoon declares martial law. Reversed within hours. Major KRW and equity shock
+2025-01-20,Trump tariff executive orders,SAN,Y,Global,Trump signs sweeping tariff orders on day one. Canada Mexico China targeted immediately
+2025-04-02,Liberation Day tariffs,SAN,N,Global,Trump announces global reciprocal tariffs. Largest single day market shock since COVID
+2025-04-09,Tariff pause announced,DIP,N,Global,90 day tariff pause announced for most countries. Largest single day market rally since 2008
+2026-01-03,US raid captures Maduro,MIL,N,Americas,US forces capture Venezuelan president Maduro. Unprecedented action against sitting head of state. Significant EM and oil market reaction
+2026-02-28,US and Israel strike Iran,MIL,N,Middle East,US and Israel conduct major strikes on Iranian nuclear and military infrastructure. Largest Middle East military escalation since 2003. Khamenei killed in strikes. Immediate oil gold and VIX shock
+2026-02-28,Strait of Hormuz closure,ENR,N,Middle East,Iran closes Strait of Hormuz following US-Israel strikes. ~20% of global oil supply disrupted. Largest single energy supply shock since 1973. Overlapping event window with military strikes — note in methodology
+2026-03-01,Iranian retaliation strikes,MIL,N,Middle East,Iran strikes regional infrastructure including US bases and Gulf state facilities. Ongoing escalation. Situation live as of dataset end date March 2026
